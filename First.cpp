@@ -1,4 +1,3 @@
-//Program to maintain all c++ codes
 //#include <iostream>
 #include <bits/stdc++.h>
 using namespace std;
